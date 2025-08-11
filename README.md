@@ -43,7 +43,8 @@ It features secure user/admin login, quizzes across 10+ math topics, a formula b
 
 Example format:
 
-![Login Page Screenshot](screenshots/login_page.png)  
+![Login Page Screenshot]  ![Login](https://github.com/user-attachments/assets/762599a0-8f68-4713-a05c-a47019b8bfbe)
+
 ![Quiz Screenshot](screenshots/quiz_page.png)  
 ![Leaderboard Screenshot](screenshots/leaderboard.png)
 
