@@ -39,14 +39,16 @@ It features secure user/admin login, quizzes across 10+ math topics, a formula b
 
 ## 📸 Screenshots
 
-> Add screenshots of different parts of your application here.
 
-Example format:
 
-![Login Page Screenshot]  ![Login](https://github.com/user-attachments/assets/762599a0-8f68-4713-a05c-a47019b8bfbe)
 
-![Quiz Screenshot](screenshots/quiz_page.png)  
-![Leaderboard Screenshot](screenshots/leaderboard.png)
+
+[Login Page Screenshot]  ![Login](https://github.com/user-attachments/assets/762599a0-8f68-4713-a05c-a47019b8bfbe)
+[Register Page Screenshot]  ![Register](https://github.com/user-attachments/assets/cb5a1d09-b312-485a-99ed-a0f183e04f77)
+[Admin Login Page Screenshot]  ![Admin Login](https://github.com/user-attachments/assets/88e37e86-b3d4-4b06-bef8-d528b7106856)
+[Home Page Screenshot]  ![Home](https://github.com/user-attachments/assets/66694b5a-909e-47d7-ab68-d9d6f33a21f9)
+[Topics Page Screenshot] ![Topics](https://github.com/user-attachments/assets/fbdb82ec-e3a8-4da6-b017-b1a3310bb073)
+
 
 ---
 
