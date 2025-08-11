@@ -57,7 +57,10 @@ It features secure user/admin login, quizzes across 10+ math topics, a formula b
 
 Example:
 
-[![Easy Maths Demo](screenshots/demo_thumbnail.png)](https://link-to-your-demo-video.com)
+
+[Easy Maths User login Demo]  https://github.com/user-attachments/assets/4ee5a25a-f9bb-48b2-aabb-ddae60eaa872
+
+[Easy Maths Demo](screenshots/demo_thumbnail.png)](https://link-to-your-demo-video.com)
 
 ---
 
