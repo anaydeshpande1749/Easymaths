@@ -1,4 +1,4 @@
-![Admin Login](https://github.com/user-attachments/assets/f351e518-8b28-4a72-b97f-964ac1cbbf8c)# 📘 Easy Maths
+# 📘 Easy Maths
 
 **Easy Maths** is a Java-based educational application designed to make learning mathematics interactive and engaging.  
 It features secure user/admin login, quizzes across 10+ math topics, a formula bank, score tracking, and a leaderboard — all built with Java Swing and MySQL.
