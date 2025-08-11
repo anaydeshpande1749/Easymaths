@@ -60,8 +60,7 @@ Example:
 
 [Easy Maths User login Demo]  https://github.com/user-attachments/assets/4ee5a25a-f9bb-48b2-aabb-ddae60eaa872
 
-[Easy Maths Admin Login Demo] [Admin Login](https://github.com/user-attachments/assets/09dd7a24-1bf3-4af6-907d-c05954545955)
-  https://github.com/user-attachments/assets/279d349a-7755-43ca-8b72-28fbb8a0d7d4
+[Easy Maths Admin Login Demo]  https://github.com/user-attachments/assets/279d349a-7755-43ca-8b72-28fbb8a0d7d4
 
 
 
