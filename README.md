@@ -1,4 +1,4 @@
-# 📘 Easy Maths
+![Admin Login](https://github.com/user-attachments/assets/f351e518-8b28-4a72-b97f-964ac1cbbf8c)# 📘 Easy Maths
 
 **Easy Maths** is a Java-based educational application designed to make learning mathematics interactive and engaging.  
 It features secure user/admin login, quizzes across 10+ math topics, a formula bank, score tracking, and a leaderboard — all built with Java Swing and MySQL.
@@ -60,7 +60,10 @@ Example:
 
 [Easy Maths User login Demo]  https://github.com/user-attachments/assets/4ee5a25a-f9bb-48b2-aabb-ddae60eaa872
 
-[Easy Maths Demo](screenshots/demo_thumbnail.png)](https://link-to-your-demo-video.com)
+[Easy Maths Admin Login Demo] [Admin Login](https://github.com/user-attachments/assets/09dd7a24-1bf3-4af6-907d-c05954545955)
+  https://github.com/user-attachments/assets/279d349a-7755-43ca-8b72-28fbb8a0d7d4
+
+
 
 ---
 
